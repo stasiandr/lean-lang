@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:alpine
 # vue-cli reqires 8.10.0+ 
 
 # RUN apt-get -y update
